@@ -1,0 +1,52 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:azure;
+}
+
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:#fff;
+    background: darkblue;
+    text-align: center;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    padding: 1cm;
+}
+
+.br{
+    color: darkgreen;
+    padding-top: 1cm;
+    margin-left: 9cm;
+
+}
+
+p{
+    text-align: justify;
+    margin-left: 9cm;
+    font-size: 0.5cm;
+    font-family:'Times New Roman', Times, serif;
+}
+
+img{
+    margin-left: 9cm;
+}
+
+.jp{
+    color:red;
+    padding-top: 1cm;
+    margin-left: 9cm;
+}
+
+.es{
+    color:rgb(218, 218, 14);
+    padding-top: 1cm;
+    margin-left: 9cm;
+}
+
+
+
